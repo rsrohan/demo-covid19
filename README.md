@@ -11,9 +11,15 @@ We believe smartphones are one such technology which may help people and governm
 ## How The App Works
 
 ### For User
+- Once the users install the application they will be authenticated via OTP.
+- Phone numbers will be used to uniquely identify users.
+- The users will be required to enter their current medical state.
+- Upon entering the above-mentioned info they can start using the app.
+- The app will notify the user if he/she has been in close contact with a suspected case(s). This info will be notified to the local bodies as well.
 
 ### For Government
-
+- Government can closely monitor the situation.
+- It will help them track and notify the affected people.
 
 ## Requirements
 
