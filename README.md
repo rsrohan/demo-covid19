@@ -1,5 +1,9 @@
 # Name of the App
 
+COVID-19 pandemic has become a cause of worldwide destruction. One of the main challenges is tracking and breaking the spread. People over the world have been practicing social distancing, despite this, a recent WHO report reveals there are as many as 50-60 times more cases than the documented cases.
+We need technology that tracks people with vulnerability and ensures social distancing for everyone.
+We believe smartphones are one such technology which may help people and government in these dark times.
+
 
 ## Problem Statement
 
