@@ -21,6 +21,12 @@ We believe smartphones are one such technology which may help people and governm
 - Government can closely monitor the situation.
 - It will help them track and notify the affected people.
 
+### How will this app help in breaking the chain?
+
+
+### How will it helpin maintaining social distancing?
+
+
 ## Requirements
 
 
